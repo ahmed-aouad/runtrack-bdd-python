@@ -1,3 +1,3 @@
-create database laplateforme ;
+create database laplateforme;
 
 SHOW DATABASES;
