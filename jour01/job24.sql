@@ -1,0 +1,1 @@
+SELECT AVG(age) AS AgeMoyen FROM etudiant ;
